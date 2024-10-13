@@ -1,0 +1,5 @@
+myenv/
+resource_monitor/*.sqlite3
+resource_monitor/*/__pycache__/
+resource_monitor/*/*/__pycache__/
+resource_monitor/*/migrations
